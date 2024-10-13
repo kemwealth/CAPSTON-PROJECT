@@ -1,4 +1,4 @@
-Project Proposal: Weather Application
+Project Proposal: Weather Application ⛈ 🌪
 =====================================
 
 Project Overview :book:
@@ -50,17 +50,17 @@ Data
 - Data to Collect: Api Request to generate weather forecast and gather information about the weather.
 - Collection Method: Fetching from the Api.
 
-Data Storage
+Data Storage 
 ------------
 
 - PostgreSQL for storing user preferences and past weather data.
 
-Type :world:
+Type 🌏
 -----------
 
 - website
 
-Stack Focus
+Stack Focus 
 ------------
 
 - Full Stack Application
