@@ -55,7 +55,7 @@ Data Storage
 
 - PostgreSQL for storing user preferences and past weather data.
 
-Type
+Type :world:
 -----------
 
 - website
