@@ -1,21 +1,21 @@
 Project Proposal: Weather Application
 =====================================
 
-Project Overview:book:
+Project Overview :book:
 -------------------
 
 This project aims to develop a user-friendly weather application that provides real-time weather updates, forecasts, and environmental conditions for locations around the world.
 The application will integrate with reliable weather APIs to deliver accurate information on temperature, humidity, precipitation, wind speed, and other essential meteorological data.
 The app will also include advanced features like severe weather alerts, hourly and weekly forecasts, and customizable location-based notifications.
 
-Goal:soccer:
+Goal :soccer:
 -------------------
 
 - Real-time weather updates: Provide up-to-date weather information based on the user’s location or any location they search.
 - Forecasting: Offer hourly, daily, and weekly forecasts.-
 - Weather alerts: Push notifications and alerts for severe weather events like storms, hurricanes, and floods.
 
-User:computer:
+User :computer:
 ---------------
 
 The primary users of this weather application are:
